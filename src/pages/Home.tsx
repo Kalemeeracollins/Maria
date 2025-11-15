@@ -21,8 +21,8 @@ const Home = () => {
             </div>
             
             <h1 className="text-6xl md:text-8xl font-bold mb-6 animate-fade-in" style={{ animationDelay: '0.1s' }}>
-              Creative
-              <span className="gradient-text glow-primary"> Developer</span>
+             Maria The  Creative
+              <span className="gradient-text glow-primary"> Developer & designer</span>
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground mb-12 animate-fade-in" style={{ animationDelay: '0.2s' }}>
